@@ -1,0 +1,17 @@
+.mi-avatar {
+    width: 75%;
+    margin: 25px auto;
+}
+
+.card-columns .card {
+    box-shadow: 0 1px 5px 0 rgba(115, 150, 201, 0.6);
+    transition: all 0.15s ease-in;
+    position: relative;
+    top: 0;
+}
+
+.card-columns .card:hover {
+    transition: all 0.25s ease-out;
+    box-shadow: 0 5px 30px 0 rgba(115, 150, 201, 0.6);
+    top: -15px;
+}
