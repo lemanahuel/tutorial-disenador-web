@@ -1,4 +1,4 @@
-## 💻 Tutorial gratuito online de Disenador Web en Coderhouse! 👊
+## 💻 Tutorial gratuito online de Diseñador Web en Coderhouse! 👊
 Desarrollaremos una pequeña actividad para dar los primeros pasos con HTML, CSS y Bootstrap.
 
 ### Tutorial online en Coderhouse
